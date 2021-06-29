@@ -1,0 +1,7 @@
+** R stuff
+.Rproj.user/
+
+** GAMS stuff
+*.log*
+*.lst
+*.lxi
